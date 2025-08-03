@@ -32,6 +32,11 @@ This project is a basic machine learning classification model that detects wheth
 - seaborn (optional for class distribution)
 
 ---
+## 📈 Output Example
+- Accuracy: ~98%
+
+- Most frequent misclassifications: Occasional confusion with ham that resembles marketing
+---
 
 
 ## 🧑‍💻 Author
